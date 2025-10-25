@@ -16,8 +16,11 @@ async function getHomeData() {
 
 export default async function Home() {
   const homeData = await getHomeData();
-  const pictureSrc = (homeData.picture || "").replace(/^public\//, "/");
-  const resumeHref = (homeData.resume || "").replace(/^public\//, "/");
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const picturePath = (homeData.picture || "").replace(/^public\//, "/");
+  const resumePath = (homeData.resume || "").replace(/^public\//, "/");
+  const pictureSrc = `${basePath}${picturePath}`;
+  const resumeHref = `${basePath}${resumePath}`;
 
   return (
     <section className="min-h-[70vh] flex items-center">
