@@ -4,14 +4,32 @@
   "picture": "public/assets/profile_picture.jpg",
   "resume": "public/assets/Sumedha_Minocha_Resume.pdf",
   "title": "Sumedha Minocha",
-  "email": "sm2776@cornell.edu",
-  "phone": "+91 9988776655",
-  "description": "I am a Ph.D. candidate at Cornell University, Charles H. Dyson School of Applied Economics (Area of Concentration: International & Development Economics).",
-  "research_interests": [
-    "Social Protection Programs",
-    "Gender",
-    "Nutrition",
-    "Health",
-    "Agriculture"
+  "cards": [
+    {
+      "id": "about",
+      "title": "Sumedha Minocha",
+      "type": "text",
+      "content": "I am a Ph.D. candidate at Cornell University, Charles H. Dyson School of Applied Economics (Area of Concentration: International & Development Economics)."
+    },
+    {
+      "id": "research",
+      "title": "Research Interests",
+      "type": "chips",
+      "items": [
+        "Social Protection Programs",
+        "Gender",
+        "Nutrition",
+        "Health",
+        "Agriculture"
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "type": "links",
+      "email": "sm2776@cornell.edu",
+      "phone": "+91 9988776655",
+      "linkedin": ""
+    }
   ]
 }

@@ -1,0 +1,92 @@
+{
+    "sections": [
+        {
+            "_id": "working_papers",
+            "label": "Working Papers",
+            "items": [
+                {
+                    "title": "Food Transfers, Program Uptake and Maternal Nutrition: Evidence from India",
+                    "sub": "(Job Market Paper)",
+                    "description": "I use a natural experiment in which I compare the impact of providing nutritious rations given as ready-to-cook food packets once in two months vs bundling of this program with daily nutritious cooked meals at village- based community centers. Quazi experimental methods were used to match village pairs based on observable variables and spatial distance across these two groups. Primary data was collected for a sample of ~930 pregnant women across two districts of Maharashtra in India in 2024-2025.",
+                    "citation": "",
+                    "link": ""
+                },
+                {
+                    "title": "Do maternal spot feeding programs effect birth weight? Evidence from Andhra Pradesh and Telangana in India",
+                    "sub": "",
+                    "description": "",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "_id": "peer_reviewed_publications",
+            "label": "Peer Reviewed Publications",
+            "items": [
+                {
+                    "title": "Iron Fortification through Universal Distribution of Double-Fortified Salt Can Increase Wages and Be Cost-Effective: An Ex-Ante Modeling Study in India",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Makkar, S., Minocha, S., Bhat, K.G., John, A.T., Swaminathan, S., Thomas, T., Mannar, M.G.V., Kurpad, A.V. (2022). “Iron Fortification through Universal Distribution of Double-Fortified Salt Can Increase Wages and Be Cost-Effective: An Ex-Ante Modeling Study in India” The Journal of Nutrition 152 (2), 597-611",
+                    "link": "https://doi.org/10.1093/jn/nxab378"
+                },
+                {
+                    "title": "Factors influencing household pulse consumption in India: A multilevel model analysis",
+                    "sub": "",
+                    "description": "",
+                    "citation": "John, A.T., Makkar, S., Swaminathan, S., Minocha, S., Webb, P., Kurpad, A. (2021) “Factors influencing household pulse consumption in India: A multilevel model analysis” Global food security 29, 100534.",
+                    "link": "https://doi.org/10.1016/j.gfs.2021.100534"
+                },
+                {
+                    "title": "Can millets find a place on the Indian plate? A policy perspective",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Makkar, S., Minocha, S., Swaminathan, S., Kurpad, A. “Can millets find a place on the Indian plate? A policy perspective” Economic and Political Weekly, 68 (2), 607-653",
+                    "link": ""
+                },
+                {
+                    "title": "Demand for complementary financial and technological tools for managing drought risk",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Ward, P.S., Spielman, D.J., Ortega, D.L., Kumar, N., Minocha, S. “Demand for complementary financial and technological tools for managing drought risk”. Accepted for publication in Economic Development and Cultural Change",
+                    "link": "https://doi.org/10.1086/700632"
+                },
+                {
+                    "title": "Supply and Demand of high quality protein foods in India: Trends and opportunities",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Minocha, S., Makkar, S., Swaminathan, S., Thomas, T., Webb, P., Kurpad, A. (2019) “Supply and Demand of high quality protein foods in India: Trends and opportunities”. Global Food Security 23: 139- 148.",
+                    "link": "https://doi.org/10.1016/j.gfs.2019.05.004"
+                },
+                {
+                    "title": "Protein quality and the requirement of indispensable amino acids in Indians",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Shivakumar, N., Minocha, S., Kurpad, A. (2018) “Protein quality and the requirement of indispensable amino acids in Indians” Indian Journal of Medical Research 148: 5 557-568",
+                    "link": "http://www.ijmr.org.in/article.asp?issn=09715916;year=2018;volume=148;issue=5;spage=557;epage=568;aulast=Shivakumar"
+                },
+                {
+                    "title": "Are we eating too much? A critical reappraisal of the energy requirement in Indians",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Swaminathan, S., Sinha, S., Minocha, S., Makkar, S., Kurpad A.V. (2018). “Are we eating too much? A critical reappraisal of the energy requirement in Indians”. Proc Ind Natn Sci Acad 84: 4 809- 819.",
+                    "link": "http://www.insajournal.in/insaojs/index.php/proceedings/article/view/558"
+                },
+                {
+                    "title": "Are 'fruits and vegetables' intake really what they seem in India?",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Minocha, S., Thomas, T., Kurpad, A. (2018). “Are 'fruits and vegetables' intake really what they seem in India?”. European Journal of Clinical Nutrition 72: 603- 608",
+                    "link": "https://www.nature.com/articles/s41430-018-0094-1"
+                },
+                {
+                    "title": "Dietary Protein and the Health-Nutrition-Agriculture Connection in India",
+                    "sub": "",
+                    "description": "",
+                    "citation": "Minocha, S., Thomas, T., Kurpad, A (2017). “Dietary Protein and the Health-Nutrition-Agriculture Connection in India”. The Journal of Nutrition 147:7 1243- 1250.",
+                    "link": "https://doi.org/10.3945/jn.116.243980"
+                }
+            ]
+        }
+    ]
+}
