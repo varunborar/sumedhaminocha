@@ -15,6 +15,38 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Sumedha Minocha",
   description: "Portfolio website of Sumedha Minocha",
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"),
+  keywords: [
+    "Sumedha Minocha",
+    "PhD",
+    "Cornell",
+    "Development Economics",
+    "Research",
+    "Publications",
+  ],
+  openGraph: {
+    type: "website",
+    siteName: "Sumedha Minocha",
+    title: "Sumedha Minocha",
+    description: "Portfolio website of Sumedha Minocha",
+    url: "/",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Sumedha Minocha",
+    description: "Portfolio website of Sumedha Minocha",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      maxSnippet: -1,
+      maxImagePreview: "large",
+      maxVideoPreview: -1,
+    },
+  },
 };
 
 export default function RootLayout({ children }) {
