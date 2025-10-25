@@ -22,9 +22,9 @@ export default async function Home() {
   return (
     <section className="min-h-[70vh] flex items-center">
       <div className="grid grid-cols-1 gap-8 md:grid-cols-12 md:gap-12 items-center w-full">
-        <div className="md:col-span-5">
+        <div className="md:col-span-5 flex justify-center md:block">
           <div className="mx-auto">
-            <Avatar className="h-64 w-64 md:h-96 md:w-96 rounded-xl border">
+            <Avatar className="h-[70vw] w-[70vw] sm:h-64 sm:w-64 md:h-96 md:w-96 rounded-xl border">
               <AvatarImage src={pictureSrc} alt={homeData.title} className="object-cover rounded-xl" />
               <AvatarFallback className="rounded-xl text-xl">SM</AvatarFallback>
             </Avatar>

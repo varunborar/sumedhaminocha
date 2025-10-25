@@ -18,13 +18,12 @@ export default async function ResearchPage() {
 
   return (
     <section className="space-y-6">
-      <h1 className="text-2xl md:text-3xl font-semibold tracking-tight">Research</h1>
-      <Separator />
+      {/* <h1 className="text-2xl md:text-3xl font-semibold tracking-tight">Research</h1> */}
 
       <div className="space-y-8">
         {(research.sections || []).map((section) => (
           <div key={section._id || section.label} className="space-y-3">
-            <h2 className="text-xl font-semibold tracking-tight">{section.label}</h2>
+            <h1 className="text-2xl font-semibold tracking-tight">{section.label}</h1>
             <Separator />
             <div className="space-y-3">
               {(section.items || []).map((item, idx) => (

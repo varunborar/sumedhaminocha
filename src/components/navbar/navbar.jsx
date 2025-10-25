@@ -18,7 +18,7 @@ export function NavBar() {
     const isMobile = useIsMobile()
 
     return (
-        <header className="w-full border-b">
+        <header className="w-full border-b sticky top-0 z-50 bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60">
             <div className="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
                 <Link href="/" className="text-base md:text-lg font-semibold tracking-tight">
                     Sumedha Minocha
