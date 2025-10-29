@@ -30,11 +30,23 @@ export const metadata = {
     title: "Sumedha Minocha",
     description: "Portfolio website of Sumedha Minocha",
     url: "/",
+    images: [
+      {
+        url: "/assets/profile_picture.jpg",
+        alt: "Sumedha Minocha",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Sumedha Minocha",
     description: "Portfolio website of Sumedha Minocha",
+    images: [
+      {
+        url: "/assets/profile_picture.jpg",
+        alt: "Sumedha Minocha",
+      },
+    ],
   },
   robots: {
     index: true,
